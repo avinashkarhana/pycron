@@ -9,7 +9,7 @@ Checks for file availability in a location and if file do not exist, then restor
  
 
 Usage :
-Just set cron job in scheduler or some other application to run the script periodically as per need.(I can do that if you ask.)
+Just set cron job in scheduler or some other application to run the script periodically as per need.
 
 Requirements :
 
